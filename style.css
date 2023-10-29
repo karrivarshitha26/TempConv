@@ -25,7 +25,7 @@ width:300px;
 }
 .converter-row{
 display:flex;
-width:40%;
+width:100%;
 justify-content: space-between;
 align-items: center;
 background: darkslategray;
